@@ -1,2 +1,3 @@
 # TextHover
-hover effect inspired by Paul Lewis
+Hover effect inspired by Paul Lewis
+
